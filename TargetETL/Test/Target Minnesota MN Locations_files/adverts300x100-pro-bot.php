@@ -1,0 +1,1 @@
+document.write("<a href='https://www.allstays.com/DL' target='_top'> <img src='https://www.allstays.com/images/b/300x100-banner-pro-upgrade.gif' width='300' height='100' alt='Upgrade Pro Ad' border='0'></a>")

@@ -1,0 +1,1 @@
+document.write("<a href='https://www.allstays.com/DL' target='_top'> <img src='https://www.allstays.com/images/b/300x100-banner-pro-freezing.gif' width='300' height='100' alt='Road Grades on Pro Ad' border='0'></a>")
